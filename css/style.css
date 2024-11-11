@@ -187,10 +187,10 @@ header span  {
 .araba {
     font-style: normal;
 }
-footer .last {
+.last-three .last {
     color: #2E2F42;
 }
-footer .logo {
+.last-three .logo {
     font-family: "Raleway", serif;
     font-weight: 700;
     font-size: 18px;
@@ -199,8 +199,14 @@ footer .logo {
     text-transform: uppercase;
     color: #4D5AE5;
 }
-.last-two {
+.last-three .last-two {
     line-height: 1.5;
     color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+.general-info .last-four {
+    letter-spacing: 0.02em;
+}
+.general-info .last-five {
     letter-spacing: 0.02em;
 }
