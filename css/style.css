@@ -187,7 +187,7 @@ header span  {
 .araba {
     font-style: normal;
 }
-.last-three .last {
+footer .last {
     color: #2E2F42;
 }
 .last-three .logo {
@@ -202,11 +202,5 @@ header span  {
 .last-three .last-two {
     line-height: 1.5;
     color: #F4F4FD;
-    letter-spacing: 0.02em;
-}
-.general-info .last-four {
-    letter-spacing: 0.02em;
-}
-.general-info .last-five {
     letter-spacing: 0.02em;
 }
