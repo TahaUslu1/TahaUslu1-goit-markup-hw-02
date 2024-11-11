@@ -1,4 +1,4 @@
-/* header {
+header {
     width: 1440px;
     height: 72px;
     background-color: #E7E9FC;
@@ -6,7 +6,7 @@
     border-bottom: 1px solid black;
     padding-top: 1px;
     height: 200%;
-} */
+}
  .logo {
     font-family: "Raleway", serif;
     font-weight: 700;
@@ -18,11 +18,11 @@
 }
 
 
-body {
+/* body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-}
+} */
 
 #headline {
     color: #4D5AE5;
@@ -183,4 +183,7 @@ header span  {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
+}
+.araba {
+    font-style: normal;
 }
