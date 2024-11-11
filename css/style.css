@@ -187,3 +187,15 @@ header span  {
 .araba {
     font-style: normal;
 }
+footer span {
+    color: white;
+}
+footer .logo {
+    font-family: "Raleway", serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
