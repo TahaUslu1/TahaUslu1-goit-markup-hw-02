@@ -177,13 +177,6 @@ header nav ul section .taha{
 header span  {
     color: #2E2F42;
 }
-.nav-container-left .nav-conta {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
 .araba {
     font-style: normal;
 }
@@ -214,4 +207,10 @@ header span  {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+header .nav-conta {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
