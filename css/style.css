@@ -7,7 +7,7 @@ header {
     padding-top: 1px;
     height: 200%;
 }
- body .logo {
+ .logo {
     font-family: "Raleway", serif;
     font-weight: 700;
     font-size: 18px;
@@ -187,7 +187,7 @@ header span  {
 .araba {
     font-style: normal;
 }
-footer .last {
+.last-three .last {
     color: #2E2F42;
 }
 .last-three .logo {
@@ -199,8 +199,14 @@ footer .last {
     text-transform: uppercase;
     color: #4D5AE5;
 }
-.last-three .last-two {
+.general-info .last-four {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.general-info .last-five {
     line-height: 1.5;
-    color: #F4F4FD;
     letter-spacing: 0.02em;
 }
